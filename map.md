@@ -1,0 +1,16 @@
+---
+layout: default
+title: Product-based Tech Firms in Chennai (Map)
+---
+
+Below is the embedded uMap of Chennai product-based tech firms.
+
+<div class="map-container">
+  <iframe width="100%" height="600" frameborder="0"
+    src="https://umap.openstreetmap.fr/en/map/product-based-tech-firms-in-chennai_1327888/embed"
+    allowfullscreen></iframe>
+</div>
+
+<style>
+.map-container { max-width: 1100px; margin: 1.5rem auto; }
+</style>

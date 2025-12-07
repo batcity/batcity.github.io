@@ -1,0 +1,6 @@
+title: Batcity Blog
+description: Personal blog + map of product-based tech firms in Chennai
+baseurl: "" 
+url: "https://batcity.github.io"
+theme: minima
+plugins: [jekyll-feed]
