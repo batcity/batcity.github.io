@@ -1,0 +1,18 @@
+osm_type,osm_id,osm_key,osm_value,type,countrycode,name,country,district,state,county,extent,Latitude,Longitude,postcode,housenumber,city,street,locality
+W,1153743743,landuse,commercial,locality,IN,Amazon,India,Perungudi,Tamil Nadu,Sholinganallur,"80.2435358,12.9629461,80.245942,12.9606419",12.96180945,80.24466707563599,,,,,
+,,,,,,Appian,,,,,,12.962395,80.244548,,,,,
+,,,,,,Arista Networks,,,,,,13.0322912,80.1693624,,,,,
+W,132459611,landuse,commercial,locality,IN,Athenahealth,India,Perungudi,Tamil Nadu,Sholinganallur,"80.2430479,12.9709678,80.2452013,12.9681868",12.9696396,80.24388098996636,600096,40,Perungudi,Dr MGR Main Road,
+W,102580578,landuse,commercial,locality,IN,Chargebee,India,Adyar,Tamil Nadu,Chennai,"80.2447331,12.9917647,80.2505207,12.9900623",12.99111925,80.24756667129974,,,Chennai,,
+N,8478795417,office,yes,house,IN,Entropik,India,Nazarethpuram,Tamil Nadu,Alandur,,13.0161967,80.2013694,600032,#122 1ST FLOOR.,Chennai,"HQ10 GUINDY SIDCO INDUSTRIAL ESTATE,",CMWSSB Division 201
+N,13286910921,office,it,house,IN,Freshworks,India,Perungudi,Tamil Nadu,Sholinganallur,,12.9695392,80.2439381,600096,,Perungudi,"Dr MGR Main Road, Kodandarama Nagar",Govindaswamy Nagar
+W,28225303,landuse,commercial,locality,IN,Gen Digital (formerly Symantec Corporation and NortonLifeLock Inc.),India,Zone 12 Alandur,Tamil Nadu,Alandur,"80.1729825,13.024577,80.1774696,13.0200139",13.022247499999999,80.17530779890396,,,,,
+W,211889963,building,yes,house,IN,Opendoor,India,Teynampet,Tamil Nadu,Chennai,"80.2470706,13.0389949,80.2474957,13.0387203",13.03884755,80.2472830269275,600018,New No. 431,Chennai,"Anna Salai, Mount Road, Teynampet",Seethammal Colony Ext
+W,355100244,office,it,house,IN,PayPal,India,Sholinganallur,Tamil Nadu,Sholinganallur,"80.2264131,12.9099593,80.2273846,12.9093664",12.9096628,80.22689886169323,600119,334,Chennai,Rajiv Gandhi Salai,CMWSSB Division 197
+W,1016681320,building,construction,house,IN,Tazapay,India,Adyar,Tamil Nadu,Chennai,"80.2144525,13.0173035,80.2162381,13.0162904",13.01679995,80.2153285394993,600015,,Chennai,Abraham Bridge,Labour Colony
+,,,,,,Toast Inc,,,,,,12.9913605,80.2498552,,,,,
+,,,,,,Vendasta,,,,,,13.0252304,80.2084361,,,,,
+,,,,,,Walmart Global Tech,,,,,,12.9714721,80.2438087,,,,,
+W,1016681320,building,construction,house,IN,Workday,India,Adyar,Tamil Nadu,Chennai,"80.2144525,13.0173035,80.2162381,13.0162904",13.01679995,80.2153285394993,600015,,Chennai,Abraham Bridge,Labour Colony
+N,3237483126,office,it,house,IN,Zoho,India,,Tamil Nadu,Chengalpattu,,12.8311571,80.0494621,603202,140,chennai,Grand Southern Trunk Road,
+W,1115505189,building,yes,house,IN,Zuora,India,Perungudi,Tamil Nadu,Sholinganallur,"80.2445667,12.9626433,80.2454956,12.9620864",12.9623648,80.24503115414403,600096,,,,Thiruvalluvar Nagar

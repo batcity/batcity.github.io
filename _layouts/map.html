@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <!-- Page-scoped overrides for the map post only -->
+  <style>
+    /* Keep overrides tightly scoped so only .post-content inside this layout is affected */
+    .post-content {
+      background: var(--surface);
+      padding: 0.4rem;
+      border-radius: 8px;
+      overflow: hidden;
+      margin-bottom: 1rem;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.4);
+    }
+    .post-content iframe {
+      width: 100%;
+      height: 600px;
+      border: 0;
+      border-radius: 6px;
+      background: transparent;
+      display: block;
+    }
+    @media (max-width:700px) {
+      .post-content iframe { height: 420px; }
+    }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1><a href="{{ '/' | absolute_url }}">{{ site.title }}</a></h1>
+    </div>
+  </header>
+
+  <main class="content wrap">
+    {{ content | raw }}
+  </main>
+
+  <footer class="site-footer wrap">
+  </footer>
+</body>
+</html>
