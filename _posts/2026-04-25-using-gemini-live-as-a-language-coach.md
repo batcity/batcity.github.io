@@ -4,7 +4,7 @@ author: "Batcity"
 layout: default
 ---
 
-I like learning new languages, and I recently realized that Gemini Live has improved to the point where it excels at speaking several of them. I’ve started conversing with it regularly, and I’ve enjoyed the experience. 
+I like learning new languages, and I recently realized that Gemini Live has improved to the point where it's pretty good at speaking several of them. I’ve tried talking to it a few times and enjoyed the experience. 
 
 The one annoying thing I noticed is that I had to prompt it every single time we started talking to explain that I wanted to practice a language. While the text-based Gemini interface uses a tool called [Gems](https://gemini.google/overview/gems/) to work around this, Gems don't currently work with Gemini Live. 
 
