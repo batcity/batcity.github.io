@@ -5,4 +5,4 @@ layout: default
 ---
 
 When I originally moved to Chennai in 2023, It was difficult for me to find a list of Product based tech firms in the city. So I did some research and I've created a map/list of all the product based tech firms here. Hopefully this map saves you some time: 
-https://techmaps.fyi/?city=chennai
+<https://techmaps.fyi/?city=chennai>
